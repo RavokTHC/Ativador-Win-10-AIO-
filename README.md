@@ -1,7 +1,7 @@
 
  # Ativação Windows 10 Todas as Verções via CMD
  
- # Comandos no CMD :
+## Comandos no CMD :
 
 ```
  cscript slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
