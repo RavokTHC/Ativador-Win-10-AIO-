@@ -14,7 +14,8 @@
 ```
  cscript slmgr.vbs /ato
 ``` 
- ## "Windows 10 Supported Editions"                    "Product Keys"
+
+ ## " Edições Suportadas do Windows 10"      "Chaves de Produto ( Serial Key )"
  ```
 
          Home/Core                            TX9XD-98N7V-6WMQ6-BX7FG-H8Q99        
